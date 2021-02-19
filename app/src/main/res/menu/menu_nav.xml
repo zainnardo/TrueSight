@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/map"
+        android:title="Maps"
+        android:icon="@drawable/ic_map"/>
+
+    <item
+        android:id="@+id/tourney"
+        android:title="Tourney"
+        android:icon="@drawable/ic_game"/>
+
+</menu>
